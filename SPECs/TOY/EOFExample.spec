@@ -1,0 +1,3 @@
+EOFExample = EOF
+
+EOF : EOF
