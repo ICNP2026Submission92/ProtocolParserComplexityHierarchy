@@ -1,6 +1,6 @@
 # Protocol Parser Complexity Hierarchy (PPCH)
 
-Companion repository for:**"A Complexity Hierarchy for Protocol-Parser Inference: Foundations and Security Implications"**
+Companion repository for: **"A Complexity Hierarchy for Protocol-Parser Inference: Foundations and Security Implications"**
 
 ---
 
