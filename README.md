@@ -1,7 +1,6 @@
 # Protocol Parser Complexity Hierarchy (PPCH)
 
-Companion repository for the ICNP 2026 paper:
-**"A Complexity Hierarchy for Protocol-Parser Inference: Foundations and Security Implications"**
+Companion repository for:**"A Complexity Hierarchy for Protocol-Parser Inference: Foundations and Security Implications"**
 
 ---
 
